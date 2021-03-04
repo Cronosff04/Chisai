@@ -81,8 +81,8 @@ select {
 
 :root {
     --text: black;
-    --background: white;
-    --dots: radial-gradient(currentColor 1px, transparent 1px), radial-gradient(currentColor 1px, transparent 1px);
+    --background: #e9eef3;
+    --dots: radial-gradient(#120d25 1px, #181621bd 1px), radial-gradient(#b3b4bd 1px, #0f0c1bf2 1px);
     --ratio: 1.5;
     --s-5: calc(var(--s-4) / var(--ratio));
     --s-4: calc(var(--s-3) / var(--ratio));
@@ -100,9 +100,9 @@ select {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --text: white;
-        --background: black;
-        --dots: radial-gradient(white 1px, transparent 1px), radial-gradient(white 1px, transparent 1px);
+        --text: black;
+        --background: #e9eef3;
+        --dots: radial-gradient(#120d25 1px, #181621bd 1px), radial-gradient(#b3b4bd 1px, #0f0c1bf2 1px);
     }
 }
 
