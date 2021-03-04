@@ -210,6 +210,10 @@ ul>*+* {
     margin-top: var(--s3);
 }
 
+.flow-icons>*+* {
+    margin: var(--s3);
+}
+
 .logo {
     border-radius: 100%;
     margin: 0 auto;
