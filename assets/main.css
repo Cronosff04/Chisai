@@ -82,7 +82,7 @@ select {
 :root {
     --text: black;
     --background: #e9eef3;
-    --dots: radial-gradient(#120d25 1px, #181621bd 1px), radial-gradient(#b3b4bd 1px, #0f0c1bf2 1px);
+    --dots: radial-gradient(#8994a9bd 1px, #898aa9bd 1px), radial-gradient(#b5c3de 1px, #383542f2 1px);
     --ratio: 1.5;
     --s-5: calc(var(--s-4) / var(--ratio));
     --s-4: calc(var(--s-3) / var(--ratio));
