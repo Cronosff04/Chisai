@@ -100,9 +100,9 @@ select {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --text: black;
-        --background: #e9eef3;
-        --dots: radial-gradient(#120d25 1px, #181621bd 1px), radial-gradient(#b3b4bd 1px, #0f0c1bf2 1px);
+        --text: #f6f6ff;
+        --background: #111113;
+        --dots: radial-gradient(#4e4d52 1px, #515a65bd 1px), radial-gradient(#b3b4bd 1px, #0f0c1bf2 1px);
     }
 }
 
