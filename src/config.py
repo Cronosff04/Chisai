@@ -1,5 +1,5 @@
 content_folder = ['art', 'blog']
-relative_build_url = "/micrositeFF/"
+relative_build_url = "/"
 absolute_build_url = "https://cronosff04.github.io/micrositeFF/"
 build_folder = "build/"
 assets_folder = "assets/"
